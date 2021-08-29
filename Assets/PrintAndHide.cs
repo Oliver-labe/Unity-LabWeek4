@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ConsolePrint : MonoBehaviour {
+public class PrintAndHide : MonoBehaviour {
     public Renderer rend;
     int i, randValue;
 
